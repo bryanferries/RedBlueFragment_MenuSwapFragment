@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RedBlueFragment_MenuSwapFragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_red_fragment">This is the red fragment</string>
+    <string name="hello_blue_fragment">This is the blue fragment</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+</resources>
